@@ -1,5 +1,5 @@
 # Universal Packaging Tool: Macports backend
-This is a [Macports](https://www.macports.org) frontend for [upt](https://pypi.python.org/pypi/upt).
+This is a [Macports](https://www.macports.org) backend for [upt](https://pypi.python.org/pypi/upt).
 
 #### Steps to use this tool out:
 
